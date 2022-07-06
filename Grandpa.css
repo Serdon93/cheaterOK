@@ -1,0 +1,56 @@
+.background {
+    background-color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    max-width: 100%;
+    padding: 20px;
+}
+.icon {
+    display: flex;
+    
+}
+.img1 {
+    margin: 20px;
+    padding-left: 70px;
+
+}
+.text {
+    text-align: center;
+    padding-left: 70px;
+    padding-top: 30px;
+    font-weight: 600;
+    font-size: 25px;
+}
+.img2 {
+    margin: 30px;
+    width: 150px;
+    padding-left: 50px;
+}
+.box div {
+    margin-bottom: 20px;  
+}
+.box h1 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+}
+.table1 {
+    width: 50%;
+    text-align: center;
+    font-weight: 600;
+    font-size: 16px;
+    margin-left: 250px;
+    border: solid blue;
+}
+.table1 td {
+border: solid rgb(153, 114, 114);
+}
+.box2 {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+
+
+

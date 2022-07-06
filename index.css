@@ -1,0 +1,257 @@
+.backgroung {
+background-color: rgb(248, 246, 244);
+max-width: 100%;
+margin: auto;
+color: rgb(30, 44, 44);
+font-size: 14px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.avatar {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+    width: 200px;
+    border-radius: 75px;
+box-shadow: 20px 20px 200px rgba(0,0,0);
+
+}
+/*Ведется работа по изменению текста в параграфах */
+.info p {
+color: #800000;
+margin: 0;
+font-style:italic;
+font-weight:bold  ;
+text-decoration: underline;
+letter-spacing: 3px;
+text-transform: capitalize;
+word-spacing: 10px;
+margin-top: 20px;
+
+}
+.info {
+display: flex;
+}
+.text-position {
+    margin-top: 60px;
+}
+.info {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+/*Работа с <Body> на различные параметры*/
+.container {
+    max-width: 70%;
+    margin: auto;
+
+
+}
+/*Связаться с ним/ работа с параметрами*/
+.social {
+    width:100%;
+background-color: #c4c9bd;
+
+border-bottom-style:groove;
+border-radius: 20px;
+
+
+margin-top: 20px;
+margin-bottom: 30px;
+margin-left: 0px;
+margin-right: 0px;
+}
+.social h2{
+    padding-top: 20px;
+    text-align: center;
+}
+.social p {
+    text-align: left;
+    padding-left: 20px;
+}
+.box-model > div {
+    float: left;
+ background: rgb(240, 232, 163);  
+ border-radius: 20px;
+height: 100px;
+/*border: 1px solid rgb(24, 31, 32);*/
+box-sizing: border-box;
+width: 25%;
+}
+
+.box1 {
+    border:1px solid rgb(199, 192, 182);
+}
+.box4 {
+    border:1px solid rgb(199, 192, 182);
+}
+.box2 p {
+    text-align: center;
+margin: 3px;
+}
+.box2 li {
+    list-style: none;
+    text-align: center;
+    padding: 5px;
+}
+.box3 li {
+    list-style: none;
+    text-align: center;
+    padding: 5px;
+}
+.box3 p {
+    text-align: center;
+    margin: 2px;
+}
+a:visited {
+    color: rgb(66, 66, 141);
+}
+
+a:active {
+    color: grey;
+}
+a:hover {
+    text-decoration:line-through ;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+   
+
+}
+
+.card h2 {
+text-align: center;
+}
+.card {
+    font-weight: 600;
+    font-size: 16px;
+    padding: 15px 20px;
+    background: #5f9ea0;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    border-style:groove;
+}
+
+.Character h2 {
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.Character {
+background-color: #dce9a5;
+width: 100%;
+border-radius: 70px;
+color: rgb(17, 17, 19);
+text-align: center;
+padding: 5px;
+}
+.Character p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    text-align: center;
+}
+.papa {
+    border-style:groove;
+    border-radius: 20%;
+    font-weight: 600;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    text-align: center;
+
+background-color: #dce9a5;
+}
+
+.table {
+width: 100%;
+}
+.table td {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+padding-bottom:20px;
+padding-left: 200px;
+}
+.table tr {
+color: rgb(26, 20, 53);
+text-decoration: double;
+}
+.cricher h2 {
+text-align: center;
+}
+.cricher {
+    background: cornsilk;
+    border-style:groove;
+    margin-top: 30px;
+    border-radius: 40px;
+   padding-top: 10px;
+}
+.cricher p {
+    padding-left: 30px;
+    border-left: 30px;
+    text-transform:capitalize;
+    font-weight: 600px;
+}
+.cricher li {
+    color: red;
+    font-weight: 900;
+    margin-left: 20px;
+}
+.location {
+    background-color: antiquewhite;
+    border-style:groove;
+    border-radius: 40px;
+    margin-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+.location h2 {
+text-align: center;
+bottom: 30px;    
+}
+
+.box-2 div {
+    
+    margin-bottom: 30px;
+    height: 200;
+    float: left;
+    
+    border: 2px rgba(0,0,0);
+    box-sizing: border-box;
+}
+.anket  {
+
+    border-radius: 15%;
+    border-left: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    font-size: 18px;
+    background-color: antiquewhite;
+}
+.dopindormation {
+    padding-bottom: 20px;
+    border-bottom: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-radius: 20%;
+    background-color: antiquewhite;
+}
+.textpole {
+    margin-left: 10px;
+    width: 300px;
+    height: 150px;
+}
+.cnock {
+    margin-left: 530px;
+    padding: 15px 20px;
+    color: wheat;
+    background: #0f0f0f;
+    cursor: pointer;
+    
+}
+.cnock:hover {
+    opacity: 0.9;
+}

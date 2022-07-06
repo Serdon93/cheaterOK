@@ -1,0 +1,123 @@
+.background {
+    max-width: 100%;
+    background: rgb(204, 198, 198);
+    margin: auto;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(59, 52, 66);
+}
+
+.head {
+display: flex;
+}
+.head-text {
+    text-align: center;
+    padding-top: 20px;
+}
+
+
+.p1 {
+    text-align: center;
+text-decoration:dashed;
+font-weight: 600;
+font-style: italic;
+text-transform: capitalize;
+font-size: 90px;
+line-height: 0px;
+padding-bottom: 0px;
+font-family: 'Times New Roman', Times, serif;
+letter-spacing: 3px;
+}
+.p2 {
+    text-align: center;
+    text-decoration:dashed;
+    font-weight: 600;
+    font-style: italic;
+    text-transform: capitalize;
+    font-size: 40px;
+    line-height: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.img {
+    width: 300px;
+    margin: 30px 60px 30px 40px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 10px 10px;
+}
+.box div {
+    margin-bottom: 30px;
+    border-radius: 20px;
+}
+.box1 {
+    color: rgb(12, 11, 11);
+    
+    border-radius: 60%;
+    padding: 10px 0px 30px 0px;
+    background-color: antiquewhite;
+}
+.box1 h1 {
+text-align: center;
+}
+.table {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    border:1rem solid rgb(107, 73, 73); 
+    font-weight: 600;
+    
+}
+.table td {
+    border: 4mm ridge rgba(211, 220, 50, .6);
+}
+.box2 {
+    background-color: rgb(181, 206, 122);
+    padding: 30px 20px 30px 20px;
+    font-weight: 600;
+    line-height: 30px;
+}
+.box2 h2 {
+text-align: center;
+padding-bottom: 30px;
+}
+.box2 h4 {
+    text-transform: capitalize;
+    text-decoration:underline;
+    padding-left:0px;
+    
+}
+.box3 {
+    background-color: rgb(182, 169, 194);
+    padding: 20px 10px 20px 20px;
+    font-weight: 600;
+    line-height: 30px;
+}
+.box3 p{
+    padding-left: 500px;
+    line-height: 20px;
+}
+.box4 {
+    font-weight: 600;
+    padding: 20px;
+    background-color: rgb(214, 153, 109);
+    line-height: 25px;
+}
+.box4 h2{
+text-align: center;
+}
+.imgend {
+    display:block;
+    size: 100%;
+}
+.img3 {
+    width: auto;
+    
+}
+
+
+
+
+
+
+
